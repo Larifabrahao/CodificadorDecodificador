@@ -12,8 +12,12 @@ h3 {
 
 body {
   color: #ffffff;
-  background: rgb(0, 42, 97);
+  background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.8)), url("Imagens/backgroundIndex.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
   font-family: "arial";
+
 }
 
 main {
